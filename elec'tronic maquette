@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+ 		<meta charset="utf-8">
+ <!--[if lt IE 9]>
+ 	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+ 	<meta name="Robots" content="noindex nofollow">
+ 	<title>elec'tronic - Wireframe.cc Preview</title>
+ 	
+ 	<link rel="stylesheet" href="elec'tronic%20maquette_fichiers/style.css" type="text/css">
+ 	<link href="elec'tronic%20maquette_fichiers/css_002.css" rel="stylesheet" type="text/css">
+  <link href="elec'tronic%20maquette_fichiers/css.css" rel="stylesheet">
+ 		
+ 		<style>
+ 		.grouped:empty{display: none !important;}
+ 		.preview .wire.hastext .textme {user-select: text;background-image: none !important;}
+ 		</style>
+ </head>
+
+
+ <body class="preview">
+
+
+ 	<div class="container preview ps ps--theme_default ps--active-x ps--active-y" data-ps-id="eb1ec236-dc3e-6e71-adcb-9aa301ba911b">
+
+
+
+
+ 		
+ 			<div id="smalllogo">
+ 			Made with <b><a href="http://wireframe.cc/" target="_blank">wireframe<span style="color: tomato;">|</span>cc</a></b>
+ 			</div>
+
+
+ 		<!-- <div class="overlay"></div> -->
+
+ 	
+
+
+ 	<div class="supercanvas" style="width: 1274px; height: 3160px;">
+ 		<!-- <div class="overlay"></div> -->
+
+ 	<div id="canvas-wrap" class="ui-draggable browser-wrap" snappy="0" data-grid="graph" style="width: 1024px; height: 2410px; left: 125px; margin-left: 0px; position: absolute; top: 120px;"><span id="browser"><span></span></span><div id="canvas" style="width: 100%; height: 100%;" class="preview"><div class="page" id="1" data-pagename="Homepage" data-hidden="false" data-page-width="1024" data-page-height="2410" data-template="browser-wrap" style="height: 100%; width: 100%; display: block;"><div class="wire ui-state-disabled ui-resizable-autohide" style="top: 639px; left: 0px; width: 1024px; height: 563px;" id="w15123956777120" aria-disabled="true"><div style="z-index: 2; position: absolute; margin-top: 0px; background-color: rgb(221, 221, 221);" class="wirejr image hasSVG"><svg version="1.1" width="1022" height="561"><line x1="0" y1="561" x2="1022" y2="0" class="line1" stroke="#444" stroke-width="1"></line><line x1="0" y1="0" x2="1022" y2="561" class="line2" stroke="#444" stroke-width="1"></line></svg></div></div><div class="wire ui-state-disabled ui-resizable-autohide" style="top: 740px; left: 399px; width: 402px; height: 217px; position: absolute;" id="w15123956777161" aria-disabled="true"><div style="z-index: 3; position: absolute; margin-top: 0px;" class="wirejr box"></div></div><div class="wire ui-resizable-autohide" style="top: 0px; left: 0px; width: 1024px; height: 41px;" id="w15123956777202" aria-disabled="false"><div style="z-index: 4; position: absolute; margin-top: 0px; border-color: rgba(0, 0, 0, 0); background-color: rgb(68, 68, 68);" class="wirejr box"></div></div><div class="wire hastext text21 rich-text ui-resizable-autohide" style="top: 10px; left: 0px; width: 201px; height: 22px; z-index: auto;" id="w15123956777223" aria-disabled="false"><div style="z-index: 5; position: absolute; margin-top: 0px; height: auto; width: 199px;" class="wirejr headlinetxt textnew text21 text-arimo"><div class="textme ql-editor"><p class="ql-align-center"><span class="ql-color-f">ACCUEIL</span></p></div></div></div><div class="wire hastext text21 rich-text ui-resizable-autohide" style="top: 10px; left: 263px; width: 201px; height: 22px; z-index: auto;" id="w15123956777244" aria-disabled="false"><div style="z-index: 6; position: absolute; margin-top: 0px; height: auto; width: 199px;" class="wirejr headlinetxt textnew text21 text-arimo"><div class="textme ql-editor"><p class="ql-align-center"><span class="ql-color-f">ÉQUIPE</span></p></div></div></div><div class="wire hastext text21 rich-text ui-resizable-autohide" style="top: 10px; left: 552px; width: 201px; height: 22px; z-index: auto;" id="w15123956777265" aria-disabled="false"><div style="z-index: 7; position: absolute; margin-top: 0px; height: auto; width: 199px;" class="wirejr headlinetxt textnew text21 text-arimo"><div class="textme ql-editor"><p class="ql-align-center"><span class="ql-color-f">FORMATION</span></p></div></div></div><div class="wire hastext text21 rich-text ui-resizable-autohide" style="top: 10px; left: 803px; width: 201px; height: 22px; z-index: auto;" id="w15123956777286" aria-disabled="false"><div style="z-index: 8; position: absolute; margin-top: 0px; height: auto; width: 199px;" class="wirejr headlinetxt textnew text21 text-arimo"><div class="textme ql-editor"><p class="ql-align-center"><span class="ql-color-f">PROJET</span></p></div></div></div><div class="wire ui-resizable-autohide" style="top: 40px; left: 0px; width: 1024px; height: 560px; position: absolute; z-index: auto;" id="w15123956777307" aria-disabled="false"><div style="z-index: 9; position: absolute; margin-top: 0px; background-color: rgb(255, 99, 71);" class="wirejr image hasSVG"><svg version="1.1" width="1022" height="558"><line x1="0" y1="558" x2="1022" y2="0" class="line1" stroke="#444" stroke-width="1"></line><line x1="0" y1="0" x2="1022" y2="558" class="line2" stroke="#444" stroke-width="1"></line></svg></div></div><div class="wire ui-state-disabled ui-resizable-autohide" style="top: 200px; left: 185px; width: 657px; height: 214px;" id="w15123956777318" aria-disabled="true"><div style="z-index: 10; position: absolute; margin-top: 0px;" class="wirejr image hasSVG"><svg version="1.1" width="655" height="212"><line x1="0" y1="212" x2="655" y2="0" class="line1" stroke="#444" stroke-width="1"></line><line x1="0" y1="0" x2="655" y2="212" class="line2" stroke="#444" stroke-width="1"></line></svg></div></div><div class="wire hastext text21 rich-text ui-resizable-autohide" id="w15123956777339" style="top: 283px; left: 315px; width: 394px; height: 50px; z-index: auto;" aria-disabled="false"><div style="z-index: 11; position: absolute; margin-top: 0px; height: auto; width: 392px;" class="wirejr headlinetxt textnew text21 text-arimo"><div class="textme ql-editor"><p style="font-size: 42px;" class="ql-align-center"><strong class="ql-sc-true ql-color-h1">ÉLEC'TRONIC</strong></p></div></div></div><div class="wire ui-resizable-autohide" style="top: 740px; left: 200px; width: 200px; height: 217px; z-index: auto; position: absolute;" id="w151239567773710" aria-disabled="false"><div style="z-index: 12; position: absolute; margin-top: 0px; background-color: rgb(255, 99, 71);" class="wirejr image hasSVG"><svg version="1.1" width="198" height="215"><line x1="0" y1="215" x2="198" y2="0" class="line1" stroke="#444" stroke-width="1"></line><line x1="0" y1="0" x2="198" y2="215" class="line2" stroke="#444" stroke-width="1"></line></svg></div></div><div class="wire ui-resizable-autohide" style="top: 755px; left: 422px; width: 342px; height: 187px; position: absolute;" id="w151239567774011" aria-disabled="false"><div style="z-index: 13; position: absolute; margin-top: 0px;" class="wirejr paragraph"><span class="txtcont" style="background: rgb(68, 68, 68) none repeat scroll 0% 0%;"><span style="background: rgb(68, 68, 68) none repeat scroll 0% 0%;">Lorem
+ ipsum dolor sit amet, et delectus accommodare his, consul copiosae 
+legendos at vix, ad putent delectus delicata usu. Vidit dissentiet eos 
+cu, eum an brute copiosae hendrerit. Eos erant dolorum an. Per facer 
+affert ut. Mei iisque mentitum moderatius cu. Sit munere facilis accusam
+ eu, dicat falli consulatu at vis.&lt;/br&gt;Te facilisis mnesarchum 
+qui, posse omnium mediocritatem est cu. Modus argumentum ne qui, tation 
+efficiendi in eos. Ei mea falli legere efficiantur, et tollit aliquip 
+debitis mei. No deserunt mediocritatem mel. Lorem ipsum dolor sit amet, 
+et delectus accommodare his, consul copiosae legendos at vix, ad putent 
+delectus delicata usu. Vidit dissentiet eos cu, eum an brute copiosae 
+hendrerit. Eos erant dolorum an. Per facer affert ut. Mei iisque 
+mentitum moderatius cu. Sit munere facilis accusam eu, dicat falli 
+consulatu at vis.&lt;/br&gt;Te facilisis mnesarchum qui, posse omnium 
+mediocritatem est cu. Modus argumentum ne qui, tation efficiendi in eos.
+ Ei mea falli legere efficiantur, et tollit aliquip debitis mei. No 
+deserunt mediocritatem mel. Lorem ipsum dolor sit amet, et delectus 
+accommodare his, consul copiosae legendos at vix, ad putent delectus 
+delicata usu. Vidit dissentiet eos cu, eum an brute copiosae hendrerit. 
+Eos erant dolorum an. Per facer affert ut. Mei iisque mentitum 
+moderatius cu. Sit munere facilis accusam eu, dicat falli consulatu at 
+vis.&lt;/br&gt;Te facilisis mnesarchum qui, posse omnium mediocritatem 
+est cu. Modus argumentum ne qui, tation efficiendi in eos. Ei mea falli 
+legere efficiantur, et tollit aliquip debitis mei. No deserunt 
+mediocritatem mel.</span></span></div></div><div class="wire ui-resizable-autohide selected" style="top: 956px; left: 200px; width: 601px; height: 227px;" id="w151239567774212" aria-disabled="false"><div style="z-index: 14; position: absolute; margin-top: 0px;" class="wirejr box"></div></div><div class="wire ui-resizable-autohide" style="top: 977px; left: 266px; width: 77px; height: 93px;" id="w151239567774313" aria-disabled="false"><div style="z-index: 15; position: absolute; margin-top: 0px; background-color: rgb(255, 99, 71);" class="wirejr image hasSVG"><svg version="1.1" width="75" height="91"><line x1="0" y1="91" x2="75" y2="0" class="line1" stroke="#444" stroke-width="1"></line><line x1="0" y1="0" x2="75" y2="91" class="line2" stroke="#444" stroke-width="1"></line></svg></div></div><div class="wire ui-resizable-autohide" style="top: 977px; left: 470px; width: 77px; height: 93px;" id="w151239567774414" aria-disabled="false"><div style="z-index: 16; position: absolute; margin-top: 0px; background-color: rgb(255, 99, 71);" class="wirejr image hasSVG"><svg version="1.1" width="75" height="91"><line x1="0" y1="91" x2="75" y2="0" class="line1" stroke="#444" stroke-width="1"></line><line x1="0" y1="0" x2="75" y2="91" class="line2" stroke="#444" stroke-width="1"></line></svg></div></div><div class="wire ui-resizable-autohide" style="top: 977px; left: 659px; width: 77px; height: 93px;" id="w151239567774515" aria-disabled="false"><div style="z-index: 17; position: absolute; margin-top: 0px; background-color: rgb(255, 99, 71);" class="wirejr image hasSVG"><svg version="1.1" width="75" height="91"><line x1="0" y1="91" x2="75" y2="0" class="line1" stroke="#444" stroke-width="1"></line><line x1="0" y1="0" x2="75" y2="91" class="line2" stroke="#444" stroke-width="1"></line></svg></div></div><div class="wire ui-resizable-autohide" style="top: 1080px; left: 243px; width: 123px; height: 103px; position: absolute;" id="w151239567774616" aria-disabled="false"><div style="z-index: 18; position: absolute; margin-top: 0px;" class="wirejr paragraph"><span class="txtcont" style="background: rgb(68, 68, 68) none repeat scroll 0% 0%; text-align: center;"><span style="background: rgb(68, 68, 68) none repeat scroll 0% 0%; text-align: center;">Lorem
+ ipsum dolor sit amet, et delectus accommodare his, consul copiosae 
+legendos at vix, ad putent delectus delicata usu. Vidit dissentiet eos 
+cu, eum an brute copiosae hendrerit. Eos erant dolorum an. Per facer 
+affert ut. Mei iisque mentitum moderatius cu. Sit munere facilis accusam
+ eu, dicat falli consulatu at vis.&lt;/br&gt;Te facilisis mnesarchum 
+qui, posse omnium mediocritatem est cu. Modus argumentum ne qui, tation 
+efficiendi in eos. Ei mea falli legere efficiantur, et tollit aliquip 
+debitis mei. No deserunt mediocritatem mel. Lorem ipsum dolor sit amet, 
+et delectus accommodare his, consul copiosae legendos at vix, ad putent 
+delectus delicata usu. Vidit dissentiet eos cu, eum an brute copiosae 
+hendrerit. Eos erant dolorum an. Per facer affert ut. Mei iisque 
+mentitum moderatius cu. Sit munere facilis accusam eu, dicat falli 
+consulatu at vis.&lt;/br&gt;Te facilisis mnesarchum qui, posse omnium 
+mediocritatem est cu. Modus argumentum ne qui, tation efficiendi in eos.
+ Ei mea falli legere efficiantur, et tollit aliquip debitis mei. No 
+deserunt mediocritatem mel. Lorem ipsum dolor sit amet, et delectus 
+accommodare his, consul copiosae legendos at vix, ad putent delectus 
+delicata usu. Vidit dissentiet eos cu, eum an brute copiosae hendrerit. 
+Eos erant dolorum an. Per facer affert ut. Mei iisque mentitum 
+moderatius cu. Sit munere facilis accusam eu, dicat falli consulatu at 
+vis.&lt;/br&gt;Te facilisis mnesarchum qui, posse omnium mediocritatem 
+est cu. Modus argumentum ne qui, tation efficiendi in eos. Ei mea falli 
+legere efficiantur, et tollit aliquip debitis mei. No deserunt 
+mediocritatem mel.</span></span></div></div><div class="wire ui-resizable-autohide" style="top: 1080px; left: 451px; width: 123px; height: 103px; position: absolute;" id="w151239567774817" aria-disabled="false"><div style="z-index: 19; position: absolute; margin-top: 0px;" class="wirejr paragraph"><span class="txtcont" style="background: rgb(68, 68, 68) none repeat scroll 0% 0%; text-align: center;"><span style="background: rgb(68, 68, 68) none repeat scroll 0% 0%; text-align: center;">Lorem
+ ipsum dolor sit amet, et delectus accommodare his, consul copiosae 
+legendos at vix, ad putent delectus delicata usu. Vidit dissentiet eos 
+cu, eum an brute copiosae hendrerit. Eos erant dolorum an. Per facer 
+affert ut. Mei iisque mentitum moderatius cu. Sit munere facilis accusam
+ eu, dicat falli consulatu at vis.&lt;/br&gt;Te facilisis mnesarchum 
+qui, posse omnium mediocritatem est cu. Modus argumentum ne qui, tation 
+efficiendi in eos. Ei mea falli legere efficiantur, et tollit aliquip 
+debitis mei. No deserunt mediocritatem mel. Lorem ipsum dolor sit amet, 
+et delectus accommodare his, consul copiosae legendos at vix, ad putent 
+delectus delicata usu. Vidit dissentiet eos cu, eum an brute copiosae 
+hendrerit. Eos erant dolorum an. Per facer affert ut. Mei iisque 
+mentitum moderatius cu. Sit munere facilis accusam eu, dicat falli 
+consulatu at vis.&lt;/br&gt;Te facilisis mnesarchum qui, posse omnium 
+mediocritatem est cu. Modus argumentum ne qui, tation efficiendi in eos.
+ Ei mea falli legere efficiantur, et tollit aliquip debitis mei. No 
+deserunt mediocritatem mel. Lorem ipsum dolor sit amet, et delectus 
+accommodare his, consul copiosae legendos at vix, ad putent delectus 
+delicata usu. Vidit dissentiet eos cu, eum an brute copiosae hendrerit. 
+Eos erant dolorum an. Per facer affert ut. Mei iisque mentitum 
+moderatius cu. Sit munere facilis accusam eu, dicat falli consulatu at 
+vis.&lt;/br&gt;Te facilisis mnesarchum qui, posse omnium mediocritatem 
+est cu. Modus argumentum ne qui, tation efficiendi in eos. Ei mea falli 
+legere efficiantur, et tollit aliquip debitis mei. No deserunt 
+mediocritatem mel.</span></span></div></div><div class="wire ui-resizable-autohide" style="top: 1080px; left: 637px; width: 123px; height: 103px; position: absolute;" id="w151239567774918" aria-disabled="false"><div style="z-index: 20; position: absolute; margin-top: 0px;" class="wirejr paragraph"><span class="txtcont" style="background: rgb(68, 68, 68) none repeat scroll 0% 0%; text-align: center;"><span style="background: rgb(68, 68, 68) none repeat scroll 0% 0%; text-align: center;">Lorem
+ ipsum dolor sit amet, et delectus accommodare his, consul copiosae 
+legendos at vix, ad putent delectus delicata usu. Vidit dissentiet eos 
+cu, eum an brute copiosae hendrerit. Eos erant dolorum an. Per facer 
+affert ut. Mei iisque mentitum moderatius cu. Sit munere facilis accusam
+ eu, dicat falli consulatu at vis.&lt;/br&gt;Te facilisis mnesarchum 
+qui, posse omnium mediocritatem est cu. Modus argumentum ne qui, tation 
+efficiendi in eos. Ei mea falli legere efficiantur, et tollit aliquip 
+debitis mei. No deserunt mediocritatem mel. Lorem ipsum dolor sit amet, 
+et delectus accommodare his, consul copiosae legendos at vix, ad putent 
+delectus delicata usu. Vidit dissentiet eos cu, eum an brute copiosae 
+hendrerit. Eos erant dolorum an. Per facer affert ut. Mei iisque 
+mentitum moderatius cu. Sit munere facilis accusam eu, dicat falli 
+consulatu at vis.&lt;/br&gt;Te facilisis mnesarchum qui, posse omnium 
+mediocritatem est cu. Modus argumentum ne qui, tation efficiendi in eos.
+ Ei mea falli legere efficiantur, et tollit aliquip debitis mei. No 
+deserunt mediocritatem mel. Lorem ipsum dolor sit amet, et delectus 
+accommodare his, consul copiosae legendos at vix, ad putent delectus 
+delicata usu. Vidit dissentiet eos cu, eum an brute copiosae hendrerit. 
+Eos erant dolorum an. Per facer affert ut. Mei iisque mentitum 
+moderatius cu. Sit munere facilis accusam eu, dicat falli consulatu at 
+vis.&lt;/br&gt;Te facilisis mnesarchum qui, posse omnium mediocritatem 
+est cu. Modus argumentum ne qui, tation efficiendi in eos. Ei mea falli 
+legere efficiantur, et tollit aliquip debitis mei. No deserunt 
+mediocritatem mel.</span></span></div></div><div class="wire hastext text21 rich-text ui-state-disabled ui-resizable-autohide" style="top: 666px; left: 200px; width: 601px; height: 50px; z-index: auto;" id="w151239567775019" aria-disabled="true"><div style="z-index: 21; position: absolute; margin-top: 0px; height: auto; width: 599px;" class="wirejr headlinetxt textnew text21 text-arimo"><div class="textme ql-editor"><p style="font-size: 42px;" class="ql-align-center"><strong><u>ÉQUIPE</u></strong><strong class="ql-sc-true ql-ttu-true"><u><span class="ql-cursor">﻿</span></u></strong></p></div></div></div><div class="wire ui-resizable-autohide" style="top: 599px; left: 0px; width: 1024px; height: 41px;" id="w151239567775120" aria-disabled="false"><div style="z-index: 22; position: absolute; margin-top: 0px; border-color: rgba(0, 0, 0, 0); background-color: rgb(68, 68, 68);" class="wirejr box"></div></div><div class="wire hastext text21 rich-text ui-resizable-autohide" style="top: 609px; left: 0px; width: 201px; height: 22px; z-index: auto;" id="w151239567775321" aria-disabled="false"><div style="z-index: 23; position: absolute; margin-top: 0px; height: auto; width: 199px;" class="wirejr headlinetxt textnew text21 text-arimo"><div class="textme ql-editor"><p class="ql-align-center"><span class="ql-color-f">ACCUEIL</span></p></div></div></div><div class="wire hastext text21 rich-text ui-resizable-autohide" style="top: 609px; left: 263px; width: 201px; height: 22px; z-index: auto;" id="w151239567775422" aria-disabled="false"><div style="z-index: 24; position: absolute; margin-top: 0px; height: auto; width: 199px;" class="wirejr headlinetxt textnew text21 text-arimo"><div class="textme ql-editor"><p class="ql-align-center"><span class="ql-color-f">ÉQUIPE</span></p></div></div></div><div class="wire hastext text21 rich-text ui-resizable-autohide" style="top: 609px; left: 552px; width: 201px; height: 22px; z-index: auto;" id="w151239567775623" aria-disabled="false"><div style="z-index: 25; position: absolute; margin-top: 0px; height: auto; width: 199px;" class="wirejr headlinetxt textnew text21 text-arimo"><div class="textme ql-editor"><p class="ql-align-center"><span class="ql-color-f">FORMATION</span></p></div></div></div><div class="wire hastext text21 rich-text ui-resizable-autohide" style="top: 609px; left: 803px; width: 201px; height: 22px; z-index: auto;" id="w151239567775724" aria-disabled="false"><div style="z-index: 26; position: absolute; margin-top: 0px; height: auto; width: 199px;" class="wirejr headlinetxt textnew text21 text-arimo"><div class="textme ql-editor"><p class="ql-align-center"><span class="ql-color-f">PROJET</span></p></div></div></div><div class="wire ui-resizable-autohide" style="top: 1201px; left: 0px; width: 1024px; height: 41px;" id="w151239567775825" aria-disabled="false"><div style="z-index: 27; position: absolute; margin-top: 0px; border-color: rgba(0, 0, 0, 0); background-color: rgb(68, 68, 68);" class="wirejr box"></div></div><div class="wire hastext text21 rich-text ui-resizable-autohide" style="top: 1211px; left: 0px; width: 201px; height: 22px; z-index: auto;" id="w151239567776026" aria-disabled="false"><div style="z-index: 28; position: absolute; margin-top: 0px; height: auto; width: 199px;" class="wirejr headlinetxt textnew text21 text-arimo"><div class="textme ql-editor"><p class="ql-align-center"><span class="ql-color-f">ACCUEIL</span></p></div></div></div><div class="wire hastext text21 rich-text ui-resizable-autohide" style="top: 1211px; left: 263px; width: 201px; height: 22px; z-index: auto;" id="w151239567776127" aria-disabled="false"><div style="z-index: 29; position: absolute; margin-top: 0px; height: auto; width: 199px;" class="wirejr headlinetxt textnew text21 text-arimo"><div class="textme ql-editor"><p class="ql-align-center"><span class="ql-color-f">ÉQUIPE</span></p></div></div></div><div class="wire hastext text21 rich-text ui-resizable-autohide" style="top: 1211px; left: 552px; width: 201px; height: 22px; z-index: auto;" id="w151239567776228" aria-disabled="false"><div style="z-index: 30; position: absolute; margin-top: 0px; height: auto; width: 199px;" class="wirejr headlinetxt textnew text21 text-arimo"><div class="textme ql-editor"><p class="ql-align-center"><span class="ql-color-f">FORMATION</span></p></div></div></div><div class="wire hastext text21 rich-text ui-resizable-autohide" style="top: 1211px; left: 803px; width: 201px; height: 22px; z-index: auto;" id="w151239567776729" aria-disabled="false"><div style="z-index: 31; position: absolute; margin-top: 0px; height: auto; width: 199px;" class="wirejr headlinetxt textnew text21 text-arimo"><div class="textme ql-editor"><p class="ql-align-center"><span class="ql-color-f">PROJET</span></p></div></div></div><div class="wire ui-state-disabled ui-resizable-autohide" style="top: 1241px; left: 0px; width: 1024px; height: 563px;" id="w151239567776930" aria-disabled="true"><div style="z-index: 32; position: absolute; margin-top: 0px; background-color: rgb(221, 221, 221);" class="wirejr image hasSVG"><svg version="1.1" width="1022" height="561"><line x1="0" y1="561" x2="1022" y2="0" class="line1" stroke="#444" stroke-width="1"></line><line x1="0" y1="0" x2="1022" y2="561" class="line2" stroke="#444" stroke-width="1"></line></svg></div></div><div class="wire ui-resizable-autohide" style="top: 1333px; left: 411px; width: 402px; height: 133px; position: absolute;" id="w151239567777131" aria-disabled="false"><div style="z-index: 33; position: absolute; margin-top: 0px;" class="wirejr box"></div></div><div class="wire ui-resizable-autohide" style="top: 1333px; left: 212px; width: 200px; height: 133px; z-index: auto; position: absolute;" id="w151239567777332" aria-disabled="false"><div style="z-index: 34; position: absolute; margin-top: 0px; background-color: rgb(255, 99, 71);" class="wirejr image hasSVG"><svg version="1.1" width="198" height="131"><line x1="0" y1="131" x2="198" y2="0" class="line1" stroke="#444" stroke-width="1"></line><line x1="0" y1="0" x2="198" y2="131" class="line2" stroke="#444" stroke-width="1"></line></svg></div></div><div class="wire ui-resizable-autohide" style="top: 1340px; left: 434px; width: 342px; height: 126px; position: absolute;" id="w151239567777433" aria-disabled="false"><div style="z-index: 35; position: absolute; margin-top: 0px;" class="wirejr paragraph"><span class="txtcont" style="background: rgb(68, 68, 68) none repeat scroll 0% 0%; text-align: right;"><span style="background: rgb(68, 68, 68) none repeat scroll 0% 0%; text-align: right;">Lorem
+ ipsum dolor sit amet, et delectus accommodare his, consul copiosae 
+legendos at vix, ad putent delectus delicata usu. Vidit dissentiet eos 
+cu, eum an brute copiosae hendrerit. Eos erant dolorum an. Per facer 
+affert ut. Mei iisque mentitum moderatius cu. Sit munere facilis accusam
+ eu, dicat falli consulatu at vis.&lt;/br&gt;Te facilisis mnesarchum 
+qui, posse omnium mediocritatem est cu. Modus argumentum ne qui, tation 
+efficiendi in eos. Ei mea falli legere efficiantur, et tollit aliquip 
+debitis mei. No deserunt mediocritatem mel. Lorem ipsum dolor sit amet, 
+et delectus accommodare his, consul copiosae legendos at vix, ad putent 
+delectus delicata usu. Vidit dissentiet eos cu, eum an brute copiosae 
+hendrerit. Eos erant dolorum an. Per facer affert ut. Mei iisque 
+mentitum moderatius cu. Sit munere facilis accusam eu, dicat falli 
+consulatu at vis.&lt;/br&gt;Te facilisis mnesarchum qui, posse omnium 
+mediocritatem est cu. Modus argumentum ne qui, tation efficiendi in eos.
+ Ei mea falli legere efficiantur, et tollit aliquip debitis mei. No 
+deserunt mediocritatem mel. Lorem ipsum dolor sit amet, et delectus 
+accommodare his, consul copiosae legendos at vix, ad putent delectus 
+delicata usu. Vidit dissentiet eos cu, eum an brute copiosae hendrerit. 
+Eos erant dolorum an. Per facer affert ut. Mei iisque mentitum 
+moderatius cu. Sit munere facilis accusam eu, dicat falli consulatu at 
+vis.&lt;/br&gt;Te facilisis mnesarchum qui, posse omnium mediocritatem 
+est cu. Modus argumentum ne qui, tation efficiendi in eos. Ei mea falli 
+legere efficiantur, et tollit aliquip debitis mei. No deserunt 
+mediocritatem mel.</span></span></div></div><div class="wire ui-state-disabled ui-resizable-autohide" style="top: 1477px; left: 212px; width: 402px; height: 133px; position: absolute;" id="w151239567777634" aria-disabled="true"><div style="z-index: 36; position: absolute; margin-top: 0px;" class="wirejr box"></div></div><div class="wire ui-resizable-autohide" style="top: 1477px; left: 613px; width: 200px; height: 133px; z-index: auto; position: absolute;" id="w151239567777935" aria-disabled="false"><div style="z-index: 37; position: absolute; margin-top: 0px; background-color: rgb(255, 99, 71);" class="wirejr image hasSVG"><svg version="1.1" width="198" height="131"><line x1="0" y1="131" x2="198" y2="0" class="line1" stroke="#444" stroke-width="1"></line><line x1="0" y1="0" x2="198" y2="131" class="line2" stroke="#444" stroke-width="1"></line></svg></div></div><div class="wire ui-resizable-autohide" style="top: 1484px; left: 233px; width: 342px; height: 126px; position: absolute;" id="w151239567778136" aria-disabled="false"><div style="z-index: 38; position: absolute; margin-top: 0px;" class="wirejr paragraph"><span class="txtcont" style="background: rgb(68, 68, 68) none repeat scroll 0% 0%;"><span style="background: rgb(68, 68, 68) none repeat scroll 0% 0%;">Lorem
+ ipsum dolor sit amet, et delectus accommodare his, consul copiosae 
+legendos at vix, ad putent delectus delicata usu. Vidit dissentiet eos 
+cu, eum an brute copiosae hendrerit. Eos erant dolorum an. Per facer 
+affert ut. Mei iisque mentitum moderatius cu. Sit munere facilis accusam
+ eu, dicat falli consulatu at vis.&lt;/br&gt;Te facilisis mnesarchum 
+qui, posse omnium mediocritatem est cu. Modus argumentum ne qui, tation 
+efficiendi in eos. Ei mea falli legere efficiantur, et tollit aliquip 
+debitis mei. No deserunt mediocritatem mel. Lorem ipsum dolor sit amet, 
+et delectus accommodare his, consul copiosae legendos at vix, ad putent 
+delectus delicata usu. Vidit dissentiet eos cu, eum an brute copiosae 
+hendrerit. Eos erant dolorum an. Per facer affert ut. Mei iisque 
+mentitum moderatius cu. Sit munere facilis accusam eu, dicat falli 
+consulatu at vis.&lt;/br&gt;Te facilisis mnesarchum qui, posse omnium 
+mediocritatem est cu. Modus argumentum ne qui, tation efficiendi in eos.
+ Ei mea falli legere efficiantur, et tollit aliquip debitis mei. No 
+deserunt mediocritatem mel. Lorem ipsum dolor sit amet, et delectus 
+accommodare his, consul copiosae legendos at vix, ad putent delectus 
+delicata usu. Vidit dissentiet eos cu, eum an brute copiosae hendrerit. 
+Eos erant dolorum an. Per facer affert ut. Mei iisque mentitum 
+moderatius cu. Sit munere facilis accusam eu, dicat falli consulatu at 
+vis.&lt;/br&gt;Te facilisis mnesarchum qui, posse omnium mediocritatem 
+est cu. Modus argumentum ne qui, tation efficiendi in eos. Ei mea falli 
+legere efficiantur, et tollit aliquip debitis mei. No deserunt 
+mediocritatem mel.</span></span></div></div><div class="wire ui-resizable-autohide" style="top: 1622px; left: 411px; width: 402px; height: 133px; position: absolute;" id="w151239567778237" aria-disabled="false"><div style="z-index: 39; position: absolute; margin-top: 0px;" class="wirejr box"></div></div><div class="wire ui-resizable-autohide" style="top: 1622px; left: 213px; width: 200px; height: 133px; z-index: auto; position: absolute;" id="w151239567778338" aria-disabled="false"><div style="z-index: 40; position: absolute; margin-top: 0px; background-color: rgb(255, 99, 71);" class="wirejr image hasSVG"><svg version="1.1" width="198" height="131"><line x1="0" y1="131" x2="198" y2="0" class="line1" stroke="#444" stroke-width="1"></line><line x1="0" y1="0" x2="198" y2="131" class="line2" stroke="#444" stroke-width="1"></line></svg></div></div><div class="wire ui-resizable-autohide" style="top: 1628px; left: 438px; width: 342px; height: 120px; position: absolute;" id="w151239567778539" aria-disabled="false"><div style="z-index: 41; position: absolute; margin-top: 0px;" class="wirejr paragraph"><span class="txtcont" style="background: rgb(68, 68, 68) none repeat scroll 0% 0%; text-align: right;"><span style="background: rgb(68, 68, 68) none repeat scroll 0% 0%; text-align: right;">Lorem
+ ipsum dolor sit amet, et delectus accommodare his, consul copiosae 
+legendos at vix, ad putent delectus delicata usu. Vidit dissentiet eos 
+cu, eum an brute copiosae hendrerit. Eos erant dolorum an. Per facer 
+affert ut. Mei iisque mentitum moderatius cu. Sit munere facilis accusam
+ eu, dicat falli consulatu at vis.&lt;/br&gt;Te facilisis mnesarchum 
+qui, posse omnium mediocritatem est cu. Modus argumentum ne qui, tation 
+efficiendi in eos. Ei mea falli legere efficiantur, et tollit aliquip 
+debitis mei. No deserunt mediocritatem mel. Lorem ipsum dolor sit amet, 
+et delectus accommodare his, consul copiosae legendos at vix, ad putent 
+delectus delicata usu. Vidit dissentiet eos cu, eum an brute copiosae 
+hendrerit. Eos erant dolorum an. Per facer affert ut. Mei iisque 
+mentitum moderatius cu. Sit munere facilis accusam eu, dicat falli 
+consulatu at vis.&lt;/br&gt;Te facilisis mnesarchum qui, posse omnium 
+mediocritatem est cu. Modus argumentum ne qui, tation efficiendi in eos.
+ Ei mea falli legere efficiantur, et tollit aliquip debitis mei. No 
+deserunt mediocritatem mel. Lorem ipsum dolor sit amet, et delectus 
+accommodare his, consul copiosae legendos at vix, ad putent delectus 
+delicata usu. Vidit dissentiet eos cu, eum an brute copiosae hendrerit. 
+Eos erant dolorum an. Per facer affert ut. Mei iisque mentitum 
+moderatius cu. Sit munere facilis accusam eu, dicat falli consulatu at 
+vis.&lt;/br&gt;Te facilisis mnesarchum qui, posse omnium mediocritatem 
+est cu. Modus argumentum ne qui, tation efficiendi in eos. Ei mea falli 
+legere efficiantur, et tollit aliquip debitis mei. No deserunt 
+mediocritatem mel.</span></span></div></div><div class="wire hastext text21 rich-text ui-state-disabled ui-resizable-autohide" style="top: 1264px; left: 212px; width: 601px; height: 50px; z-index: auto;" id="w151239567778640" aria-disabled="true"><div style="z-index: 42; position: absolute; margin-top: 0px; height: auto; width: 599px;" class="wirejr headlinetxt textnew text21 text-arimo"><div class="textme ql-editor"><p style="font-size: 42px;" class="ql-align-center"><strong><u>FORMATION</u></strong></p></div></div></div><div class="wire ui-resizable-autohide" style="top: 1803px; left: 0px; width: 1024px; height: 41px;" id="w151239567778941" aria-disabled="false"><div style="z-index: 43; position: absolute; margin-top: 0px; border-color: rgba(0, 0, 0, 0); background-color: rgb(68, 68, 68);" class="wirejr box"></div></div><div class="wire hastext text21 rich-text ui-resizable-autohide" style="top: 1813px; left: 0px; width: 201px; height: 22px; z-index: auto;" id="w151239567779042" aria-disabled="false"><div style="z-index: 44; position: absolute; margin-top: 0px; height: auto; width: 199px;" class="wirejr headlinetxt textnew text21 text-arimo"><div class="textme ql-editor"><p class="ql-align-center"><span class="ql-color-f">ACCUEIL</span></p></div></div></div><div class="wire hastext text21 rich-text ui-resizable-autohide" style="top: 1813px; left: 263px; width: 201px; height: 22px; z-index: auto;" id="w151239567779243" aria-disabled="false"><div style="z-index: 45; position: absolute; margin-top: 0px; height: auto; width: 199px;" class="wirejr headlinetxt textnew text21 text-arimo"><div class="textme ql-editor"><p class="ql-align-center"><span class="ql-color-f">ÉQUIPE</span></p></div></div></div><div class="wire hastext text21 rich-text ui-resizable-autohide" style="top: 1813px; left: 552px; width: 201px; height: 22px; z-index: auto;" id="w151239567779344" aria-disabled="false"><div style="z-index: 46; position: absolute; margin-top: 0px; height: auto; width: 199px;" class="wirejr headlinetxt textnew text21 text-arimo"><div class="textme ql-editor"><p class="ql-align-center"><span class="ql-color-f">FORMATION</span></p></div></div></div><div class="wire hastext text21 rich-text ui-resizable-autohide" style="top: 1813px; left: 803px; width: 201px; height: 22px; z-index: auto;" id="w151239567779445" aria-disabled="false"><div style="z-index: 47; position: absolute; margin-top: 0px; height: auto; width: 199px;" class="wirejr headlinetxt textnew text21 text-arimo"><div class="textme ql-editor"><p class="ql-align-center"><span class="ql-color-f">PROJET</span></p></div></div></div><div class="wire ui-resizable-autohide" style="top: 1843px; left: 0px; width: 1024px; height: 563px;" id="w151239567779646" aria-disabled="false"><div style="z-index: 48; position: absolute; margin-top: 0px; background-color: rgb(221, 221, 221);" class="wirejr image hasSVG"><svg version="1.1" width="1022" height="561"><line x1="0" y1="561" x2="1022" y2="0" class="line1" stroke="#444" stroke-width="1"></line><line x1="0" y1="0" x2="1022" y2="561" class="line2" stroke="#444" stroke-width="1"></line></svg></div></div><div class="wire ui-resizable-autohide" style="top: 1942px; left: 173px; width: 684px; height: 455px; position: absolute;" id="w151239567779847" aria-disabled="false"><div style="z-index: 49; position: absolute; margin-top: 0px;" class="wirejr box"></div></div><div class="wire ui-resizable-autohide" style="top: 1981px; left: 239px; width: 481px; height: 136px; position: absolute;" id="w151239567780048" aria-disabled="false"><div style="z-index: 50; position: absolute; margin-top: 0px;" class="wirejr paragraph"><span class="txtcont" style="background: rgb(68, 68, 68) none repeat scroll 0% 0%;"><span style="background: rgb(68, 68, 68) none repeat scroll 0% 0%;">Lorem
+ ipsum dolor sit amet, et delectus accommodare his, consul copiosae 
+legendos at vix, ad putent delectus delicata usu. Vidit dissentiet eos 
+cu, eum an brute copiosae hendrerit. Eos erant dolorum an. Per facer 
+affert ut. Mei iisque mentitum moderatius cu. Sit munere facilis accusam
+ eu, dicat falli consulatu at vis.&lt;/br&gt;Te facilisis mnesarchum 
+qui, posse omnium mediocritatem est cu. Modus argumentum ne qui, tation 
+efficiendi in eos. Ei mea falli legere efficiantur, et tollit aliquip 
+debitis mei. No deserunt mediocritatem mel. Lorem ipsum dolor sit amet, 
+et delectus accommodare his, consul copiosae legendos at vix, ad putent 
+delectus delicata usu. Vidit dissentiet eos cu, eum an brute copiosae 
+hendrerit. Eos erant dolorum an. Per facer affert ut. Mei iisque 
+mentitum moderatius cu. Sit munere facilis accusam eu, dicat falli 
+consulatu at vis.&lt;/br&gt;Te facilisis mnesarchum qui, posse omnium 
+mediocritatem est cu. Modus argumentum ne qui, tation efficiendi in eos.
+ Ei mea falli legere efficiantur, et tollit aliquip debitis mei. No 
+deserunt mediocritatem mel. Lorem ipsum dolor sit amet, et delectus 
+accommodare his, consul copiosae legendos at vix, ad putent delectus 
+delicata usu. Vidit dissentiet eos cu, eum an brute copiosae hendrerit. 
+Eos erant dolorum an. Per facer affert ut. Mei iisque mentitum 
+moderatius cu. Sit munere facilis accusam eu, dicat falli consulatu at 
+vis.&lt;/br&gt;Te facilisis mnesarchum qui, posse omnium mediocritatem 
+est cu. Modus argumentum ne qui, tation efficiendi in eos. Ei mea falli 
+legere efficiantur, et tollit aliquip debitis mei. No deserunt 
+mediocritatem mel.</span></span></div></div><div class="wire ui-resizable-autohide" style="top: 2154px; left: 239px; width: 481px; height: 119px; position: absolute; z-index: auto;" id="w151239567780149" aria-disabled="false"><div style="z-index: 51; position: absolute; margin-top: 0px;" class="wirejr paragraph"><span class="txtcont" style="background: rgb(68, 68, 68) none repeat scroll 0% 0%;"><span style="background: rgb(68, 68, 68) none repeat scroll 0% 0%;">Lorem
+ ipsum dolor sit amet, et delectus accommodare his, consul copiosae 
+legendos at vix, ad putent delectus delicata usu. Vidit dissentiet eos 
+cu, eum an brute copiosae hendrerit. Eos erant dolorum an. Per facer 
+affert ut. Mei iisque mentitum moderatius cu. Sit munere facilis accusam
+ eu, dicat falli consulatu at vis.&lt;/br&gt;Te facilisis mnesarchum 
+qui, posse omnium mediocritatem est cu. Modus argumentum ne qui, tation 
+efficiendi in eos. Ei mea falli legere efficiantur, et tollit aliquip 
+debitis mei. No deserunt mediocritatem mel. Lorem ipsum dolor sit amet, 
+et delectus accommodare his, consul copiosae legendos at vix, ad putent 
+delectus delicata usu. Vidit dissentiet eos cu, eum an brute copiosae 
+hendrerit. Eos erant dolorum an. Per facer affert ut. Mei iisque 
+mentitum moderatius cu. Sit munere facilis accusam eu, dicat falli 
+consulatu at vis.&lt;/br&gt;Te facilisis mnesarchum qui, posse omnium 
+mediocritatem est cu. Modus argumentum ne qui, tation efficiendi in eos.
+ Ei mea falli legere efficiantur, et tollit aliquip debitis mei. No 
+deserunt mediocritatem mel. Lorem ipsum dolor sit amet, et delectus 
+accommodare his, consul copiosae legendos at vix, ad putent delectus 
+delicata usu. Vidit dissentiet eos cu, eum an brute copiosae hendrerit. 
+Eos erant dolorum an. Per facer affert ut. Mei iisque mentitum 
+moderatius cu. Sit munere facilis accusam eu, dicat falli consulatu at 
+vis.&lt;/br&gt;Te facilisis mnesarchum qui, posse omnium mediocritatem 
+est cu. Modus argumentum ne qui, tation efficiendi in eos. Ei mea falli 
+legere efficiantur, et tollit aliquip debitis mei. No deserunt 
+mediocritatem mel.</span></span></div></div><div class="wire ui-resizable-autohide" style="top: 2304px; left: 239px; width: 481px; height: 81px; position: absolute;" id="w151239567780250" aria-disabled="false"><div style="z-index: 52; position: absolute; margin-top: 0px;" class="wirejr paragraph"><span class="txtcont" style="background: rgb(68, 68, 68) none repeat scroll 0% 0%;"><span style="background: rgb(68, 68, 68) none repeat scroll 0% 0%;">Lorem
+ ipsum dolor sit amet, et delectus accommodare his, consul copiosae 
+legendos at vix, ad putent delectus delicata usu. Vidit dissentiet eos 
+cu, eum an brute copiosae hendrerit. Eos erant dolorum an. Per facer 
+affert ut. Mei iisque mentitum moderatius cu. Sit munere facilis accusam
+ eu, dicat falli consulatu at vis.&lt;/br&gt;Te facilisis mnesarchum 
+qui, posse omnium mediocritatem est cu. Modus argumentum ne qui, tation 
+efficiendi in eos. Ei mea falli legere efficiantur, et tollit aliquip 
+debitis mei. No deserunt mediocritatem mel. Lorem ipsum dolor sit amet, 
+et delectus accommodare his, consul copiosae legendos at vix, ad putent 
+delectus delicata usu. Vidit dissentiet eos cu, eum an brute copiosae 
+hendrerit. Eos erant dolorum an. Per facer affert ut. Mei iisque 
+mentitum moderatius cu. Sit munere facilis accusam eu, dicat falli 
+consulatu at vis.&lt;/br&gt;Te facilisis mnesarchum qui, posse omnium 
+mediocritatem est cu. Modus argumentum ne qui, tation efficiendi in eos.
+ Ei mea falli legere efficiantur, et tollit aliquip debitis mei. No 
+deserunt mediocritatem mel. Lorem ipsum dolor sit amet, et delectus 
+accommodare his, consul copiosae legendos at vix, ad putent delectus 
+delicata usu. Vidit dissentiet eos cu, eum an brute copiosae hendrerit. 
+Eos erant dolorum an. Per facer affert ut. Mei iisque mentitum 
+moderatius cu. Sit munere facilis accusam eu, dicat falli consulatu at 
+vis.&lt;/br&gt;Te facilisis mnesarchum qui, posse omnium mediocritatem 
+est cu. Modus argumentum ne qui, tation efficiendi in eos. Ei mea falli 
+legere efficiantur, et tollit aliquip debitis mei. No deserunt 
+mediocritatem mel.</span></span></div></div><div class="wire hastext text21 rich-text ui-state-disabled ui-resizable-autohide" style="top: 1872px; left: 215px; width: 601px; height: 50px; z-index: auto;" id="w151239567780351" aria-disabled="true"><div style="z-index: 53; position: absolute; margin-top: 0px; height: auto; width: 599px;" class="wirejr headlinetxt textnew text21 text-arimo"><div class="textme ql-editor"><p style="font-size: 42px;" class="ql-align-center"><strong><u>PROJET</u></strong></p></div></div></div><div class="wire hastext text21 rich-text ui-resizable-autohide" style="top: 1955px; left: 173px; width: 134px; height: 20px; z-index: auto; position: absolute;" id="w151239567780452" aria-disabled="false"><div style="z-index: 54; position: absolute; margin-top: 0px; height: auto; width: 599px;" class="wirejr headlinetxt textnew text21 text-arimo"><div class="textme ql-editor"><ul><li class="ql-align-center"><strong>SUJET :</strong></li></ul></div></div></div><div class="wire hastext text21 rich-text ui-state-disabled ui-resizable-autohide" style="top: 2130px; left: 173px; width: 134px; height: 20px; z-index: auto; position: absolute;" id="w151239567780653" aria-disabled="true"><div style="z-index: 55; position: absolute; margin-top: 0px; height: auto; width: 599px;" class="wirejr headlinetxt textnew text21 text-arimo"><div class="textme ql-editor"><ul><li class="ql-align-center"><strong>SUJET :</strong></li></ul></div></div></div><div class="wire hastext text21 rich-text ui-state-disabled ui-resizable-autohide" style="top: 2281px; left: 173px; width: 134px; height: 20px; z-index: auto; position: absolute;" id="w151239567780754" aria-disabled="true"><div style="z-index: 56; position: absolute; margin-top: 0px; height: auto; width: 599px;" class="wirejr headlinetxt textnew text21 text-arimo"><div class="textme ql-editor"><ul><li class="ql-align-center"><strong>SUJET :</strong></li></ul></div></div></div></div></div></div> 		</div><!-- #supercanvas end -->
+
+
+
+ 	
+
+ 	<!-- ///wirepanel START -->
+
+ 	<div id="wirepanel" class="wirepanel" style="display: none;">
+ 		<div id="edit" class="highlightable" title="Change stencil type"><i class="icon-magic"></i></div>
+ 		<div id="edittxt" class="highlightable" title="Edit text"><i class="icon-pencil"></i></div>
+ 		<!-- <div id='lock' class='highlightable' title='Lock'><i class="icon-lock" ></i></div> -->
+ 		<!-- <div id='unlock' class='highlightable' title='Unlock'><i class="icon-unlock" ></i></div> -->
+
+ 		<div id="icons">
+
+ 			<div class="icon rect horizontal vertical highlightable" elementtype="box" title="Box"></div>
+ 			<div class="icon rect horizontal vertical highlightable" elementtype="roundbox" title="Rounded Box"></div>
+ 			<div class="icon rect highlightable" elementtype="elipse" title="Ellipse/Circle"></div>
+ 			<div class="icon rect highlightable" elementtype="image" title="Image"><i class="icon-picture"></i></div>
+ 			<div class="icon rect highlightable" elementtype="paragraph" title="Paragraph"><i class="icon-align-left"></i></div>
+ 			<div class="icon rect highlightable" elementtype="list" title="List"><i class="icon-list"></i></div>
+ 			<div class="icon highlightable" elementtype="radiobtn" title="Radio button"></div>
+ 			<div class="icon highlightable" elementtype="checkbox" title="Checkbox"></div>
+ 			<div class="icon horizontal highlightable" elementtype="line_hor" title="Line"></div>
+ 			<div class="icon vertical highlightable" elementtype="line_vert" title="Line"></div>
+ 			<div class="icon horizontal highlightable" elementtype="slider" title="Slider"></div>
+ 			<div class="icon horizontal highlightable" elementtype="progressbar" title="Progress bar"></div>
+
+ 			<div class="icon horizontal highlightable" elementtype="combobox" title="Combo box"> <i class="icon-caret-down"></i> </div>
+ 			<div class="icon horizontal highlightable" elementtype="scrollh" title="Scrollbar (horizontal)"> <i class="icon-caret-left"></i> <i class="icon-caret-right"></i></div>
+ 			<div class="icon rect horizontal highlightable" elementtype="headline" title="Headline">H</div>
+ 			<div class="icon rect horizontal highlightable" elementtype="headlinetxt" title="Headline(text)">H</div>
+ 			<div id="textinput" class="icon horizontal rect highlightable " elementtype="textinput" title="Text input"></div>
+ 			<div id="annotate" class="icon horizontal rect vertical highlightable" elementtype="annotate" title="Add annotation" style="margin-top:-2px;"><i class="icon-comments-alt"></i></div>
+ 		</div>
+
+
+
+ 		<div id="strokes">
+ 			<div class="stroke_width strokeweight highlightable" title="Stroke width: thin" stroke="1"><span class="line onepx "></span></div>
+ 			<div class="stroke_width strokeweight highlightable" title="Stroke width: medium" stroke="2"><span class="line twopx "></span></div>
+ 			<div class="stroke_width strokeweight highlightable" title="Stroke width: thick" stroke="4"><span class="line fourpx "></span></div>
+ 		</div>
+
+ 		<div id="textalign">
+ 			<div id="alignleft" class="highlightable"><i class="icon-align-left" title="Align left"></i></div>
+ 			<div id="aligncenter" class="highlightable"><i class="icon-align-center" title="Center"></i></div>
+ 			<div id="alignright" class="highlightable"><i class="icon-align-right" title="Aligne right"></i></div>
+ 			<div id="alignjustify" class="highlightable"><i class="icon-align-justify" title="Justify"></i></div>
+ 		</div>
+ 		<div id="textsize">
+ 			<div id="font-s" class="highlightable" style="font-size:10px;margin-top:8px;" title="Small font"><i class="icon-font"></i></div>
+ 			<div id="font-m" class="highlightable" style="font-size:14px;margin-top:4px;" title="Medium font"><i class="icon-font"></i></div>
+ 			<div id="font-l" class="highlightable" style="font-size:18px;" title="Large font"><i class="icon-font"></i></div>
+ 		</div>
+ 		<div>
+
+
+ 			<div id="show-border" class="highlightable" title="Change to fill color">
+ 				<span></span>
+ 			</div>
+ 			<div id="show-bg" style="display:none;" class="highlightable" title="Change to background color">
+ 				<span></span>
+ 			</div>
+
+
+
+
+
+
+ 			<div id="colorpickers">
+ 				<div class="colorpicker  nocolor" style="background:transparent;" title="Transparent"></div>
+ 				<div class="colorpicker rect" style="background:rgb(250,250,250);" title="Fill color: white"></div>
+ 				<div class="colorpicker rect" style="background:rgb(221,221,221);" title="Fill color: #ddd"></div>
+ 				<div class="colorpicker rect" style="background:rgb(170,170,170);" title="Fill color: #aaa"></div>
+ 				<div class="colorpicker rect" style="background:rgb(119,119,119);" title="Fill color: #777"></div>
+ 				<div class="colorpicker rect" style="background:rgb(68,68,68);" title="Fill color: #444"></div>
+ 				<div class="colorpicker rect" style="background:rgb(17,17,17);" title="Fill color: #111"></div>
+ 				<div class="colorpicker rect" style="background:tomato;" title="Fill color: tomato"></div>
+ 			</div>
+
+ 			<div id="bordercolors" style="display:none;">
+
+ 				<div class="brcolor noborder" style="border-color:transparent;" title="Border color: transparent"></div>
+ 				<div class="brcolor" style="border-color:#fff;" title="Border color: #fff"></div>
+ 				<div class="brcolor" style="border-color:#ddd;" title="Border color: #ddd"></div>
+ 				<div class="brcolor" style="border-color:#aaa;" title="Border color: #aaa"></div>
+ 				<div class="brcolor" style="border-color:#777;" title="Border color: #777"></div>
+ 				<div class="brcolor" style="border-color:#444;" title="Border color: #444"></div>
+ 				<div class="brcolor" style="border-color:#111;" title="Border color: #111"></div>
+ 				<div class="brcolor" style="border-color:tomato;" title="Border color: tomato"></div>
+
+ 			</div>
+ 		</div>
+ 		<div id="linklist">
+ 			<label class="dropdown">
+ 				<select name="lnklst" id="linkselect"></select></label>
+ 			</div>
+ 		</div>
+ 		<!-- ///wirepanel END -->
+ <div class="ps__scrollbar-x-rail" style="width: 1215px; left: 0px; bottom: -1110px;"><div class="ps__scrollbar-x" tabindex="0" style="left: 0px; width: 1158px;"></div></div><div class="ps__scrollbar-y-rail" style="top: 1110px; height: 655px; right: 0px;"><div class="ps__scrollbar-y" tabindex="0" style="top: 230px; height: 135px;"></div></div></div>
+ 		<!-- <div class="overlay"></div> -->
+
+ 	<div id="top">
+ 		
+ 		<div id="userlogo" class="userlogo left">
+ 			 
+ 		</div>
+
+
+ 		<span class="left wiretitle">elec'tronic</span>
+ 		<span class="divider-dash">/</span>
+ 		<span class="pagename-wrap" style="margin-left:0;"><span class="pagename left " data-hidden="false" title="Homepage">Homepage</span>
+ 		<div class="sitemap-icon sitemappreview tooltip topicon left single-icon" title="Sitemap (project structure)"><span><i class="icon-sitemap"></i></span></div></span>
+ 	<div class="right mr10" style="min-width: 230px;">
+
+ 		 		
+ 		<span class="right">
+ 			<div class="topicon right single-icon tooltip saveComment withlabel" title="Save comments"><p>Save</p></div>
+ 		</span>
+ 		<div class="topicon right single-icon tooltip addComment" style="width: 98px;" title="Add comment"><p>Add comment</p></div>
+ 		<span>
+ 		<div id="prev" class="topicon left  inactive" title="Previous page"><span><i class="icon-arrow-left"></i></span></div>
+ 		<div id="next" class="topicon left  inactive" title="Next page"><span><i class="icon-arrow-right"></i></span></div></span>
+ 		<span class="left">
+ 			<div id="hide-annotation" class="topicon left single-icon" title="Hide annotations"><span><i class="icon-comment-alt"></i></span></div>
+ 		</span>
+ 		<span class="left">
+ 			<div id="show-annotation" class="topicon left single-icon" style="display:none;" title="Show annotations"><span><i class="icon-comment"></i></span></div>
+ 		</span>
+ 	</div>
+ 	
+ </div>
+
+ 	<div class="sitemap preview ps ps--theme_default" data-ps-id="021373e8-d19d-ba20-b76a-767d898a4d7f">
+ 		<div class="projectname"><i class="icon-file"></i>elec'tronic</div>
+ 		<ol id="sitemaplist" class="dd-list"><li class="dd-item activepage" data-pageid="1" data-hidden="false"><div class="dd-handle" title="Homepage">Homepage</div><span class="hidepage tooltip-smp" data-hint=""></span></li></ol>
+ <div class="ps__scrollbar-x-rail" style="left: 0px; bottom: 0px;"><div class="ps__scrollbar-x" tabindex="0" style="left: 0px; width: 0px;"></div></div><div class="ps__scrollbar-y-rail" style="top: 0px; right: 0px;"><div class="ps__scrollbar-y" tabindex="0" style="top: 0px; height: 0px;"></div></div></div>
+
+
+ 	<div class="save-wrap">
+ 		<span>Wireframe saved as:</span>
+ 		<span class="savedURL"></span>
+ 	</div>
+ 	<div class="saved">Saved</div><div class="copied">Copied</div><div class="exporting">Exporting</div>
+ 		
+
+ 		<script type="text/javascript" defer="defer" async="" src="elec'tronic%20maquette_fichiers/piwik.js"></script><script nonce="07c61f45e8ba1efa5dca8d89205aa650">
+ 		var previewid = "702acb29f129526";
+ 		</script>
+ 		<script src="elec'tronic%20maquette_fichiers/scripts.js"></script>
+ 		<script src="elec'tronic%20maquette_fichiers/wireframe.js" type="text/javascript"></script>
+ 		<script nonce="07c61f45e8ba1efa5dca8d89205aa650">
+ 		previewMode= true;
+ 		$( "#canvas-wrap").resizable('destroy').center();
+ 		var $canvas = $('#canvas');
+ 		$canvas.addClass('preview');
+ 		$canvas.find('.ui-boxer').boxer('destroy');
+ 		$canvas.find('.wire[data-link]').bind('click', gotopage);
+ 		$canvas.find('.page').bind('click', function (e) {
+ 			if (!$(e.target).is('.textme')) {highlightclickable();};
+ 		});
+ 		// $canvas.find('.page').hide().first().show();
+
+ 		// make_page_active($canvas.find('.page').first().attr('id'));
+ 		var p_hash = window.location.hash.replace('#', '');
+ 		if (p_hash === '') {p_hash = $canvas.find('.page').first().attr('id')}
+ 		if ($('.page#' + p_hash).length && $('.page#' + p_hash).attr('data-hidden') !== 'true') {
+ 		make_page_active(p_hash);
+ 		}else{
+ 			make_page_active( $canvas.find('.page').first().attr('id') );
+ 		}
+ 		$('grammarly-btn').remove();
+ 		
+ 		$( document ).ready(function() {
+ 		    highlightclickable();
+ 		});
+ 		$('#canvas .textme[contenteditable]').removeAttr('contenteditable');
+ 		</script>
+ 		
+ 		<!-- Piwik -->
+ 		<script type="text/javascript" nonce="07c61f45e8ba1efa5dca8d89205aa650">
+ 		  var _paq = _paq || [];
+ 		  _paq.push(["trackPageView"]);
+ 		  _paq.push(["enableLinkTracking"]);
+
+ 		  (function() {
+ 		    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://wireframe.cc/piwik/";
+ 		    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+ 		    _paq.push(["setSiteId", "2"]);
+ 		    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+ 		    g.defer=true; g.async=true; g.src="https://wireframecc-9947.kxcdn.com/piwik/piwik.js"; s.parentNode.insertBefore(g,s);
+ 		  })();
+ 		</script>
+ 		<!-- End Piwik Code -->
+
+ 	
+ 	</body></html>
